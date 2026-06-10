@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, eu sou a Carol 👋
 
-<!--
-**carolfcarvalho/carolfcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição para a área de Análise de Dados. Sou bacharel e mestre em Ciências Sociais e pós-graduada em Análise de Dados.
 
-Here are some ideas to get you started:
+📚 Aprendizado contínuo em Análise de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Desenvolvendo projetos com Excel e Power BI
+
+🛠️ Construindo meu portfólio de projetos
+
+Projeto em desenvolvimento
+
+📊 Análise de Vendas de E-commerce
+
+
+Meu objetivo é transformar dados em informações que apoiem a tomada de decisão e conquistar minha primeira oportunidade na área de Dados.
+
+
+Contato
+📧 E-mail: carolinafernandescarvalho@gmail.com
+💼 LinkedIn: www.linkedin.com/in/carolinafernandescarvalho
